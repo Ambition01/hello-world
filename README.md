@@ -1,4 +1,4 @@
 # hello-world
-My First repository
+My First Repository
 
 Happy Dog Year!
